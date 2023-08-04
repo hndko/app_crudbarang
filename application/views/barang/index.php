@@ -51,8 +51,8 @@
                     </form>
                 </div>
                 <div class="table-responsive">
-                    <table class="table table-bordered border-dark table-hover">
-                        <thead>
+                    <table class="table table-bordered border-info table-hover">
+                        <thead class="table-info">
                             <tr>
                                 <th class="text-center">#</th>
                                 <th>Serial Number</th>
